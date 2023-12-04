@@ -1,7 +1,3 @@
-[![Actions Status](https://github.com/ludehsar/ludehsar/workflows/wakatime-stats/badge.svg)](https://github.com/ludehsar/ludehsar/actions)
-[![Actions Status](https://github.com/ludehsar/ludehsar/workflows/update-gh-activity/badge.svg)](https://github.com/ludehsar/ludehsar/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=ludehsar.ludehsar)
-
 <!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
 </p> -->
