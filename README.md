@@ -5,10 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
-<p align="center">
-  <img src="https://socialify.git.ci/ludehsar/ludehsar/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="ludehsar" width="700" height="300" />
-</p>
-
 ```yaml
 name: Md Rashedul Alam Anik
 from: Bangladesh
