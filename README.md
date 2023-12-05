@@ -5,6 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
+<p align="center"> 
+  <img src="https://github.com/HyunCafe/HyunCafe/blob/e25265679c27a283dc24e771c120ee152b2b5b8f/assests/nightlife.gif" alt="Lofi Nightlight scene" width="100%" /> 
+</p>
+
 ```yaml
 name: Md Rashedul Alam Anik
 from: Bangladesh
